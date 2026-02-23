@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cannmns&" alt="cannmns" /></p>
 
 
-
+![snake gif](https://github.com/Cannmns/Cannmns/blob/output/github-snake-dark.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cannmns&label=Profile%20views&color=0e75b6&style=flat" alt="cannmns" /> </p>
