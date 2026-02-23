@@ -1,5 +1,4 @@
 
-![WhatsApp Image 2026-02-23 at 15 00 44](https://github.com/user-attachments/assets/cead7a8d-3778-41c1-8e6a-6567c30d2e88)
 
 
 
