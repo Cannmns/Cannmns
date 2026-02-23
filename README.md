@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Can Manus</h1>
 <h3 align="center">A passionate Software Engineering student from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cannmns&label=Profile%20views&color=0e75b6&style=flat" alt="cannmns" /> </p>
 
 - 🌱 I’m currently learning **C#**
 
@@ -28,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cannmns&show_icons=true&locale=en" alt="cannmns" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cannmns&" alt="cannmns" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cannmns&label=Profile%20views&color=0e75b6&style=flat" alt="cannmns" /> </p>
